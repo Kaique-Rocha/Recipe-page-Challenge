@@ -1,0 +1,117 @@
+*{
+    font-family: YoungSerif;
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+
+#box{
+    background-color: hsl(330, 100%, 98%);
+    width: 700px;
+    margin: 3% 35%;
+    border-radius: 20px;
+}
+
+#img{
+    padding: 5%;
+}
+
+#img img{
+    width: 630px;
+    border-radius: 10px;
+}
+
+#info{
+    padding: 0 20px;
+    text-align: left;
+}
+
+#info h1{
+    font-size: 50px;
+    color: hsl(24, 5%, 18%);
+}
+
+#info p{
+    color: hsl(30, 10%, 34%);
+    font-size: 18px;
+}
+
+#preparation{
+    padding: 20px 0 0 30px;
+}
+
+#preparation h2{
+    font-size: 20px;
+    color: hsl(332, 51%, 32%)
+}
+
+#preparation ul{
+    color: hsl(30, 10%, 34%);
+    padding: 0 0 0 40px;
+}
+
+#preparation li{
+    margin-top: 10px;
+}
+
+#ingredients{
+    padding: 10px 0 0 25px;
+    color: hsl(14, 45%, 36%);
+}
+
+#ingredients ul {
+    color: hsl(30, 10%, 34%);
+    margin: 20px;
+    padding: 0 0 0 0;
+}
+
+#ingredients li{
+    margin-top: 10px;
+}
+
+#instructions{
+    padding: 20px;
+    border-top: dotted 1px hsl(30, 18%, 87%);
+    border-bottom: dotted 1px hsl(30, 18%, 87%);
+    color: hsl(14, 45%, 36%);
+}
+
+#instructions ul{
+    color: hsl(30, 10%, 34%);
+    list-style: number;
+    padding: 0 0 0 0;
+    margin: 20px;   
+}
+
+#instructions li{
+    margin-top: 10px;
+}
+
+#instructions li p{
+    margin-left: 20px;
+}
+
+#nutrition{
+    padding: 20px;
+    color: hsl(14,45%,36%);
+}
+
+#nutrition p{
+    color: hsl(30, 10%, 34%);
+}
+
+#nutrition table{
+    margin: 20px;
+    text-align: justify;
+}
+
+#nutrition th{
+    border-bottom: dotted 1px hsl(30,18%, 87%);
+    padding: 10px;
+    padding-right: 200px;
+}
+
+.attribution{
+    margin-top: 30px;
+    text-align: center;
+}

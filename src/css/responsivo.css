@@ -1,0 +1,36 @@
+@media (max-width: 1300px) {
+    #box{
+        margin: 3% 20%;
+    }
+}
+
+@media (max-width: 970px) {
+    #box{
+        margin: 3% 7%;
+    }
+}
+
+@media (max-width: 790px) {
+    #box{
+        margin: 3% 25%;
+        width: 300px;
+    }
+
+    #img img{
+        width: 270px;
+    }
+
+    #nutrition th{
+        padding-right: 70px;
+    }
+}
+
+@media (max-width: 365px){
+    #box{
+        margin: 4% 4%;
+    }
+    
+    #info h1{
+        font-size: 30px;
+    }
+}
