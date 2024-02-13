@@ -1,6 +1,6 @@
 # Frontend Mentor - Solução para o desafio Pagina de receita!
 
-Esta é uma solução para o [desafio Pagina de Receita no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de codificação, construindo projetos realistas.
+Esta é uma solução para o [desafio Pagina de Receita no Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de codificação, construindo projetos realistas.
 
 ## Índice
 
